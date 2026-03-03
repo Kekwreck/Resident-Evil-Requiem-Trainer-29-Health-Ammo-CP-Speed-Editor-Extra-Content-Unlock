@@ -1,0 +1,192 @@
+Fake Game Trainer - Setup Guide
+================================
+
+ШАГИ ДЛЯ ЗАПУСКА ПРОЕКТА:
+
+1. СКАЧАЙТЕ ImGui
+   ================
+   
+   Перейдите на: https://github.com/ocornut/imgui
+   
+   Скачайте последний релиз (или клонируйте репозиторий)
+   
+   Скопируйте следующие файлы в папку проекта:
+   
+   Основные файлы ImGui:
+   - imgui.h
+   - imgui.cpp
+   - imgui_draw.cpp
+   - imgui_tables.cpp
+   - imgui_widgets.cpp
+   - imgui_internal.h
+   - imconfig.h
+   - imstb_rectpack.h
+   - imstb_textedit.h
+   - imstb_truetype.h
+   
+   Backend файлы (из папки backends/):
+   - imgui_impl_win32.h
+   - imgui_impl_win32.cpp
+   - imgui_impl_dx11.h
+   - imgui_impl_dx11.cpp
+
+
+2. СОЗДАЙТЕ ПРОЕКТ В VISUAL STUDIO
+   =================================
+   
+   Вариант A: Через GUI
+   --------------------
+   1. Откройте Visual Studio 2019/2022
+   2. File > New > Project
+   3. Выберите "Empty Project" (C++)
+   4. Имя: FakeTrainer, Location: выберите папку с main.cpp
+   5. Нажмите Create
+   
+   6. Добавьте файлы в проект:
+      - Right-click на проект > Add > Existing Item
+      - Выберите все .cpp файлы:
+        * main.cpp
+        * imgui.cpp
+        * imgui_draw.cpp
+        * imgui_tables.cpp
+        * imgui_widgets.cpp
+        * imgui_impl_win32.cpp
+        * imgui_impl_dx11.cpp
+   
+   Вариант B: Через CMake
+   -----------------------
+   1. Откройте папку проекта в Visual Studio (File > Open > Folder)
+   2. Visual Studio автоматически обнаружит CMakeLists.txt
+   3. Выберите конфигурацию "x64-Release"
+
+
+3. НАСТРОЙТЕ ПРОЕКТ (только для Варианта A)
+   ==========================================
+   
+   1. Выберите Configuration: Release
+   2. Выберите Platform: x64
+   
+   3. Right-click на проекте > Properties
+   
+   4. Configuration Properties > C/C++ > General
+      - SDL checks: No
+   
+   5. Configuration Properties > C/C++ > Optimization
+      - Optimization: Minimize Size (/O1)
+      - Favor Size Or Speed: Favor small code (/Os)
+      - Whole Program Optimization: Yes (/GL)
+   
+   6. Configuration Properties > C/C++ > Code Generation
+      - Runtime Library: Multi-threaded DLL (/MD)
+      - Security Check: Disable Security Check (/GS-)
+      - Enable C++ Exceptions: No
+      - Enable Run-Time Type Information: No (/GR-)
+   
+   7. Configuration Properties > Linker > General
+      - Enable Incremental Linking: No (/INCREMENTAL:NO)
+   
+   8. Configuration Properties > Linker > Manifest File
+      - Generate Manifest: No
+   
+   9. Configuration Properties > Linker > Debugging
+      - Generate Debug Info: No
+   
+   10. Configuration Properties > Linker > System
+       - SubSystem: Windows (/SUBSYSTEM:WINDOWS)
+   
+   11. Configuration Properties > Linker > Optimization
+       - References: Yes (/OPT:REF)
+       - Enable COMDAT Folding: Yes (/OPT:ICF)
+       - Link Time Code Generation: Use Link Time Code Generation
+   
+   12. Configuration Properties > Linker > Command Line
+       - Additional Options: /ENTRY:mainCRTStartup
+   
+   13. Нажмите Apply и OK
+
+
+4. СОБЕРИТЕ ПРОЕКТ
+   ================
+   
+   1. Build > Build Solution (Ctrl+Shift+B)
+   
+   2. Проверьте Output:
+      - Должно быть 0 errors
+      - .exe находится в x64\Release\FakeTrainer.exe
+   
+   3. Проверьте размер .exe:
+      - До оптимизации: обычно 100-500 KB
+
+
+5. ПОСТ-ОБРАБОТКА (COMPRESSION)
+   ==============================
+   
+   Шаг 1: Strip (опционально)
+   ---------------------------
+   Если у вас есть strip.exe (из MinGW/MSYS2):
+   
+   cd x64\Release
+   strip FakeTrainer.exe
+   
+   Шаг 2: UPX Compression
+   -----------------------
+   Скачайте UPX: https://github.com/upx/upx/releases
+   
+   Распакуйте upx.exe в папку x64\Release или добавьте в PATH
+   
+   cd x64\Release
+   upx --best --lzma FakeTrainer.exe
+   
+   Результат:
+   - Размер после UPX: 300-900 KB (зависит от версии ImGui)
+
+
+6. ЗАПУСТИТЕ TRAINER
+   ===================
+   
+   1. Запустите FakeTrainer.exe
+   
+   2. Появится borderless окно поверх всех окон
+   
+   3. Используйте горячие клавиши:
+      - Num 1-9: Читы 1-9
+      - F1-F6: Читы 10-15
+      - Num *: Все ВКЛ/ВЫКЛ
+      - ESC: Закрыть
+
+
+7. TROUBLESHOOTING
+   ================
+   
+   Проблема: "Cannot find imgui.h"
+   -------------------------------
+   Решение: Убедитесь что все файлы ImGui скопированы в папку проекта
+   
+   Проблема: LNK2019 unresolved external symbol
+   ---------------------------------------------
+   Решение: Добавьте все .cpp файлы ImGui в проект
+   
+   Проблема: .exe слишком большой (> 2 MB)
+   ----------------------------------------
+   Решение:
+   - Проверьте настройки оптимизации (/O1 /Os /MD)
+   - Убедитесь что используете Release конфигурацию
+   - Запустите UPX compression
+   
+   Проблема: Окно не отображается
+   -------------------------------
+   Решение:
+   - Проверьте что DirectX 11 установлен
+   - Обновите драйверы видеокарты
+   
+   Проблема: Горячие клавиши не работают
+   --------------------------------------
+   Решение: Trainer использует GetAsyncKeyState - должны работать всегда
+
+
+ГОТОВО!
+=======
+
+Теперь у вас есть работающий fake trainer интерфейс в стиле FLiNG.
+
+Для вопросов или проблем - проверьте README.md
